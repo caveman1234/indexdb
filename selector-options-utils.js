@@ -59,3 +59,8 @@ async function  func(filename,optionName){
   return result[optionName];
 }
 var a = func("file3","option1");
+
+
+
+function oldFetchOptions(){}
+function newFetchOptions(){}
